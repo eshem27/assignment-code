@@ -1,0 +1,18 @@
+How to read the work?
+
+1. for python: 
+there is a python code (code-hw) + the excell file of cleaned data (airbnb_clean)
+
+2. for stata: 
+do-file-1.do - preprocessing the data 
+do-file-graph.do - creating graphs 
+stata-code-hw.dta - code with 2 lines of the do-files
+
+graph-2.png (graph as png)
+price-scores.gph (stata graph)
+accommodates.gph (stata graph 2)
+
+In the folder "Data_new" saved stata dataset after cleaning 
+
+3. Git Bash: 
+there is a word-document with the code from git Bash to push all the files to git-hub
